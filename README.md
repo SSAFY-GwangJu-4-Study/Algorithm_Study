@@ -1,6 +1,14 @@
 # :potato: 알고리즘 스터디
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+
+### :pushpin: 이번 주 문제
+***
+  * 월화수: 지성, 해찬, 서정
+  * 목금토: 경삼, 명지, 수아
   
+  * 10870  피보나치 수 5, 4948 베르트랑 공준
+  * 10826 피보나치 수 4, 1914 하노이 탑
+
 ### :pushpin: 목표
 ***
   * 백준 알고리즘 골드 티어
