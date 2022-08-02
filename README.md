@@ -36,10 +36,10 @@
   
 ### :pushpin: 구조
 ***
-  * 이름 / 주차 / 문제구분 / P문제번호_문제명.java
+  * 이름 / 주차 / 문제구분 / Main_문제번호_문제명.java
   ```
-  gildong/week3/common/P1000_HelloWorld.java
-  gildong/week2/personal/P2000_GoodByeWorld.java
+  gildong/week3/common/Main_1000_HelloWorld.java
+  gildong/week2/personal/Main_2000_GoodByeWorld.java
   ```
   * 문제구분
     + common : 공통 문제
