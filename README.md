@@ -17,9 +17,9 @@
   
 ### :pushpin: commit 규칙
 ***
-  * commit 메세지: [문제번호] 문제이름 / 난이도
+  * commit 메세지: 문제번호 문제이름 난이도
   ```bash
-  git commit -m "[1000] Hello World / 브론즈5"
+  git commit -m "1000 Hello World 브론즈5"
   ```
   
 ### :pushpin: Pull Request 규칙
@@ -36,10 +36,10 @@
   
 ### :pushpin: 구조
 ***
-  * 이름 / 주차 / 문제구분 / Main_문제번호_문제명.java
+  * 이름 / 주차 / 문제구분 / Main_문제번호_작성자이름.java
   ```
-  gildong/week3/common/Main_1000_HelloWorld.java
-  gildong/week2/personal/Main_2000_GoodByeWorld.java
+  gildong/week3/common/Main_1000_송해찬.java
+  gildong/week2/personal/Main_2000_송해찬.java
   ```
   * 문제구분
     + common : 공통 문제
