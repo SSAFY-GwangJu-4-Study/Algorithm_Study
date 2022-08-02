@@ -3,6 +3,7 @@
 
 ### :pushpin: 이번 주 문제 (8/1 ~ 8/7)
 ***
+  * 스터디 문제집 - https://www.acmicpc.net/workbook/view/12237
   * 월화수: 지성, 해찬, 서정
   * 목금토: 경삼, 명지, 수아
   
