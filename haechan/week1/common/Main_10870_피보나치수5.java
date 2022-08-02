@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main_10870_송해찬 {
+public class Main_10870_피보나치수5 {
 
 	static int pibonachi(int i) {
 		if(i==0) {
