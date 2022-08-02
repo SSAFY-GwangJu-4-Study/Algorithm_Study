@@ -1,7 +1,7 @@
 # :potato: 알고리즘 스터디
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
 
-### :pushpin: 이번 주 문제
+### :pushpin: 이번 주 문제 (8/1 ~ 8/7)
 ***
   * 월화수: 지성, 해찬, 서정
   * 목금토: 경삼, 명지, 수아
