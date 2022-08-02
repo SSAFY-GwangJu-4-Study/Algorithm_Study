@@ -19,5 +19,5 @@ public class Main_10870_피보나치수5 {
 		int N = sc.nextInt();
 		System.out.println(pibonachi(N));
 	}
-//
+///////
 }
