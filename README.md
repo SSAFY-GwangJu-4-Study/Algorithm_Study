@@ -1,6 +1,15 @@
 # :potato: 알고리즘 스터디
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+
+### :pushpin: 이번 주 문제 (8/1 ~ 8/7)
+***
+  * 월화수: 지성, 해찬, 서정
+  * 목금토: 경삼, 명지, 수아
   
+  * (월) 10870  피보나치 수 5, 4948 베르트랑 공준
+  * (화) 10826 피보나치 수 4, 1929 소수 구하기, 1914 하노이 탑 (셋 중 택2)
+  * (수) 
+
 ### :pushpin: 목표
 ***
   * 백준 알고리즘 골드 티어
@@ -17,9 +26,9 @@
   
 ### :pushpin: commit 규칙
 ***
-  * commit 메세지: [문제번호] 문제이름 / 난이도
+  * commit 메세지: 문제번호 문제이름 난이도
   ```bash
-  git commit -m "[1000] Hello World / 브론즈5"
+  git commit -m "1000 Hello World 브론즈5"
   ```
   
 ### :pushpin: Pull Request 규칙
@@ -36,10 +45,10 @@
   
 ### :pushpin: 구조
 ***
-  * 이름 / 주차 / 문제구분 / P문제번호_문제명.java
+  * 이름 / 주차 / 문제구분 / Main_문제번호_작성자이름.java
   ```
-  gildong/week3/common/P1000_HelloWorld.java
-  gildong/week2/personal/P2000_GoodByeWorld.java
+  gildong/week3/common/Main_1000_송해찬.java
+  gildong/week2/personal/Main_2000_송해찬.java
   ```
   * 문제구분
     + common : 공통 문제
