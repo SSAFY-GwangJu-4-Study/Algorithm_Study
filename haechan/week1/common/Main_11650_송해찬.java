@@ -10,6 +10,7 @@ import java.util.StringTokenizer;
 public class Main_11650_송해찬 {
 
 	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
@@ -22,10 +23,12 @@ public class Main_11650_송해찬 {
 			arr[i][1] = Integer.parseInt(st.nextToken());
 		}
 		Arrays.sort(arr, (o1, o2) -> {
-			return o1[0]-o2[0];
-		});
-		Arrays.sort(arr, (o1, o2) -> {
-			return o1[1]-o2[1];
+			if(o1[0] == o2[0]) {       // [0] 값이 같으면
+				return o1[1] - o2[1];  // [1] 기준으로 오름차순 정렬
+			}
+			else {
+				return o1[0]-o2[0];  // 다르면, [0] 기준 오름차순 정렬
+			}
 		});
 		
 		for(int i=0; i<N; i++) {
@@ -37,7 +40,5 @@ public class Main_11650_송해찬 {
 		bw.flush();
 		bw.close();
 		br.close();
-		
 	}
-
 }
