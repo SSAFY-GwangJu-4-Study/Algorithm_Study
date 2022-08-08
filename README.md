@@ -1,15 +1,18 @@
 # :potato: 알고리즘 스터디
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
 
-### :pushpin: 이번 주 문제 (8/1 ~ 8/7)
+### :pushpin: 이번 주 문제 (8/8 ~ 8/14)
 ***
   * 스터디 문제집 - https://www.acmicpc.net/workbook/view/12237
   * 월화수: 지성, 해찬, 서정
   * 목금토: 경삼, 명지, 수아
   
-  * (월) 10870  피보나치 수 5, 4948 베르트랑 공준
-  * (화) 10826 피보나치 수 4, 1929 소수 구하기, 1914 하노이 탑 (셋 중 택2)
+  * (월) 1406 에디터
+  * (화) 
   * (수) 
+  * (목) 
+  * (금) 
+  * (토) 
 
 ### :pushpin: 목표
 ***
@@ -59,3 +62,4 @@
 ***
   * [깃헙 Pull Request 보내는 방법](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%EA%B9%83%ED%97%99-PRPull-Request-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-folk-issue#%EC%BD%94%EB%93%9C_%EA%B8%B0%EC%97%AC_%EC%9B%90%EB%A6%AC_(Fork_%EC%99%80_Pull_Request_(PR)))
   * [git pull request 정리](https://dkmqflx.github.io/development/2021/04/17/git-pr/)
+  * [[Git] Fork repository 최신화하기](https://sukvvon.tistory.com/78)
