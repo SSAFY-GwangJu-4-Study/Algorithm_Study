@@ -1,7 +1,7 @@
 # :potato: 알고리즘 스터디
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
 
-### :pushpin: 이번 주 문제 (8/8 ~ 8/14)
+### :pushpin: 이번 주 문제 (8/15 ~ 8/21)
 ***
   * 스터디 문제집 - https://www.acmicpc.net/workbook/view/12237
   * 월화수: 지성, 해찬, 서정
