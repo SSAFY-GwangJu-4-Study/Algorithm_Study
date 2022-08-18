@@ -29,10 +29,11 @@ public class Main_1303_송해찬 {
 		isVisited = new boolean[m][n];
 		for(int i=0; i<m; i++) {
 			for(int j=0; j<n; j++) {
-				// 방문된 적이 없다면 dfs 탐색
+				// 방문된 적이 없다면 dfs 탐색해서 cnt 얻기
 				if(!isVisited[i][j]) {
 					cnt = 1;
 					dfs(grid[i][j], i, j);
+					// 얻은 cnt로 군사력 더해주기
 					if(grid[i][j] == 'W') wPower += cnt*cnt;
 					else if(grid[i][j] == 'B') bPower += cnt*cnt;
 				}
