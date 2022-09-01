@@ -106,4 +106,4 @@
   * (화) 1197 최소 스패닝 트리
   * (수) 12865 평범한 배낭
 
-  * 스터디 문제집 8월 - https://www.acmicpc.net/workbook/view/12601
+  * 스터디 문제집 8월 - https://www.acmicpc.net/workbook/view/12237
