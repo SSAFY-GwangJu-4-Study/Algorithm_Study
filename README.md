@@ -3,7 +3,7 @@
 
 ### :pushpin: 이번 주 문제 (9/1 ~ 9/4)
 ***
-  * 스터디 문제집 - https://www.acmicpc.net/workbook/view/12237
+  * 스터디 문제집 9월 - https://www.acmicpc.net/workbook/view/12601
   * 월화수: 정효, 해찬, 서정
   * 목금토일: 경삼, 명지, 수아, 선규 
   
@@ -105,3 +105,5 @@
   * (월) 1717 집합의 표현
   * (화) 1197 최소 스패닝 트리
   * (수) 12865 평범한 배낭
+
+  * 스터디 문제집 8월 - https://www.acmicpc.net/workbook/view/12601
