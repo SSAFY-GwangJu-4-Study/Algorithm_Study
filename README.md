@@ -4,7 +4,7 @@
 ### :pushpin: 이번 주 문제 (9/1 ~ 9/4)
 ***
   * 스터디 문제집 9월 - https://www.acmicpc.net/workbook/view/12601
-  * 출제자: 정효 해찬 서정 경삼 명지 <span style="background-color:#ffdce0">수아</span> 선규 지성
+  * 출제자: 정효 해찬 서정 경삼 명지 <span style="color:blue">수아</span> 선규 지성
   
   * (월) 
   * (화) 
