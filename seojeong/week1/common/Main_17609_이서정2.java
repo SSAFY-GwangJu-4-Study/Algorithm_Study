@@ -52,37 +52,33 @@ static boolean check() {
 
 static void remove(int position,int position2) {
 	StringBuilder origin = new StringBuilder(st);
-	
+
 	StringBuilder check1 = origin;
 	check1 = check1.deleteCharAt(position);
-	
 	String s1= check1.toString();
-//	System.out.println(s1);
+
 	
 	list = new ArrayList<Character>();
 	for(int i=0; i<s1.length(); i++) {
 		list.add(s1.charAt(i));
 	}
 
-//	System.out.println(list.toString());
-//	System.out.println(check());
-//	
 	if(check()==true) {
 		System.out.println(1);
 	}
 	else {
 		
+		
+		origin = new StringBuilder(st);
 		StringBuilder check2 = origin;
 		check2 = check2.deleteCharAt(position2);
 		
 		s1= check2.toString();
 
-		
 		list = new ArrayList<Character>();
 		for(int i=0; i<s1.length(); i++) {
 			list.add(s1.charAt(i));
 		}
-		System.out.println(list.toString());
 
 		if(check()==true) {
 			System.out.println("1");
