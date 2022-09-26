@@ -70,6 +70,17 @@
   * [git pull request 정리](https://dkmqflx.github.io/development/2021/04/17/git-pr/)
   * [[Git] Fork repository 최신화하기](https://sukvvon.tistory.com/78)
 
+### :pushpin: 연습문제
+***
+  * 2178 미로 탐색
+  * 2667 단지번호붙이기
+  * 7562 나이트의 이동
+  * 7576 토마토
+  * 1743 음식물 피하기
+  * 2606 바이러스
+  * 2468 안전 영역
+  * 2644 촌수계산
+
 ### :pushpin: 8월 1주차 문제 (8/1 ~ 8/7)
 ***
   * (월) 10870 피보나치 수 5, 4948 베르트랑 공준
