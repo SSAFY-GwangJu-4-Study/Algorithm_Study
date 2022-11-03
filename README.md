@@ -3,7 +3,7 @@
 
 ### :pushpin: 이번 주 문제 (10/31 ~ 11/6)
 ***
-  * 스터디 문제집 10월 - https://www.acmicpc.net/workbook/view/12601
+  * 스터디 문제집 11월 - https://www.acmicpc.net/workbook/view/13181
   * 문제 출제
 
 |정효|해찬|서정|경삼|명지|수아|선규|지성|유진|예은|
@@ -205,3 +205,4 @@
   * (목) 
   * (금) [BOJ] 18234 당근 훔쳐 먹기
   * (주말) [BOJ] 1278 연극
+  * 스터디 문제집 10월 - https://www.acmicpc.net/workbook/view/12601
