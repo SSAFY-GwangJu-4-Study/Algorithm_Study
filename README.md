@@ -14,7 +14,7 @@
   * (화) 
   * (수) [BOJ] 2573 빙산
   * (목) 
-  * (금) [BOU] 2644 촌수계산
+  * (금) [[BOJ] 2644 촌수계산](https://www.acmicpc.net/problem/2644)
   * (주말) 
 
 ### :pushpin: 목표
