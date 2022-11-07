@@ -8,14 +8,14 @@
 
 |정효|해찬|서정|경삼|명지|수아|선규|지성|유진|예은|
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| ✅(11/05) |  |  |  |  |  |  |  |  |   |
+|  | ✅(11/07) |  |  |  |  |  |  |  |   |
   
-  * (월) [BOJ] 14226 이모티콘
+  * (월) [[SWEA] 15769 눈높이 친구](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYQPwH4qqZwDFAXj)
   * (화) 
-  * (수) [BOJ] 2573 빙산
+  * (수) 
   * (목) 
-  * (금) [[BOJ] 2644 촌수계산](https://www.acmicpc.net/problem/2644)
-  * (주말) [[BOJ] 16235 나무 재테크](https://www.acmicpc.net/problem/16235)
+  * (금)
+  * (주말) 
 
 ### :pushpin: 목표
 ***
@@ -207,3 +207,12 @@
   * (금) [BOJ] 18234 당근 훔쳐 먹기
   * (주말) [BOJ] 1278 연극
   * 스터디 문제집 10월 - https://www.acmicpc.net/workbook/view/12601
+  
+### :pushpin: 11월 1주차 문제 (10/31 ~ 11/6)
+***
+  * (월) [BOJ] 14226 이모티콘
+  * (화) 
+  * (수) [BOJ] 2573 빙산
+  * (목) 
+  * (금) [[BOJ] 2644 촌수계산](https://www.acmicpc.net/problem/2644)
+  * (주말) [[BOJ] 16235 나무 재테크](https://www.acmicpc.net/problem/16235)
