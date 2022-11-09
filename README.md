@@ -8,11 +8,11 @@
 
 |정효|해찬|서정|경삼|명지|수아|선규|지성|유진|예은|
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|  | ✅(11/07) |  |  |  |  |  |  |  |   |
+|  |  | ✅(11/09) |  |  |  |  |  |  |   |
   
   * (월) [[SWEA] 15769 눈높이 친구](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYQPwH4qqZwDFAXj)
   * (화) 
-  * (수) 
+  * (수) [[SWEA] 1767 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
   * (목) 
   * (금)
   * (주말) 
