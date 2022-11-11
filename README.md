@@ -14,7 +14,7 @@
   * (화) 
   * (수) [[SWEA] 1767 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
   * (목) 
-  * (금)
+  * (금) [[BOJ] 21608 상어 초등학교](https://www.acmicpc.net/problem/21608)
   * (주말) 
 
 ### :pushpin: 목표
