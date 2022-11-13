@@ -8,7 +8,7 @@
 
 |정효|해찬|서정|경삼|명지|수아|선규|지성|유진|예은|
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|  |  | ✅(11/09) |  |  |  |  |  |  |   |
+|  |  |  |✅(11/11)  |  |  |  |  |  |   |
   
   * (월) [[SWEA] 15769 눈높이 친구](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYQPwH4qqZwDFAXj)
   * (화) 
