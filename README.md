@@ -1,20 +1,20 @@
 # :potato: 알고리즘 스터디
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
 
-### :pushpin: 이번 주 문제 (11/07 ~ 11/13)
+### :pushpin: 이번 주 문제 (11/14 ~ 11/20)
 ***
   * 스터디 문제집 11월 - https://www.acmicpc.net/workbook/view/13181
   * 문제 출제
 
 |정효|해찬|서정|경삼|명지|수아|선규|지성|유진|예은|
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|  |  |  |✅(11/11)  |  |  |  |  |  |   |
+|  |  |  |  | ✅(11/14) |  |  |  |  |   |
   
-  * (월) [[SWEA] 15769 눈높이 친구](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYQPwH4qqZwDFAXj)
+  * (월) [[BOJ] 2583 영역 구하기](https://www.acmicpc.net/problem/2583)
   * (화) 
-  * (수) [[SWEA] 1767 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
+  * (수) 
   * (목) 
-  * (금) [[BOJ] 21608 상어 초등학교](https://www.acmicpc.net/problem/21608)
+  * (금) 
   * (주말) 
 
 ### :pushpin: 목표
@@ -216,3 +216,11 @@
   * (목) 
   * (금) [[BOJ] 2644 촌수계산](https://www.acmicpc.net/problem/2644)
   * (주말) [[BOJ] 16235 나무 재테크](https://www.acmicpc.net/problem/16235)
+  
+### :pushpin: 11월 2주차 문제 (11/7 ~ 11/13)
+  * (월) [[SWEA] 15769 눈높이 친구](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYQPwH4qqZwDFAXj)
+  * (화) 
+  * (수) [[SWEA] 1767 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
+  * (목) 
+  * (금) [[BOJ] 21608 상어 초등학교](https://www.acmicpc.net/problem/21608)
+  * (주말) 
